@@ -1,0 +1,5 @@
+airflow_env/
+airflow_env_linux/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
