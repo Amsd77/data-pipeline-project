@@ -50,8 +50,6 @@ data-pipeline-project/
 
 │ ├── load.py
 
-│
-
 ├── README.md
 
 ├── requirements.txt
