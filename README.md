@@ -38,8 +38,10 @@ extract → transform → load
 ## 📂 Project Structure
 
 data-pipeline-project/
+
 │
 ├── data/
+
 ├── scripts/
 │ ├── extract.py
 │ ├── transform.py
