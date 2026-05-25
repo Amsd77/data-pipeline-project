@@ -43,11 +43,15 @@ data-pipeline-project/
 ├── data/
 
 ├── scripts/
+
 │ ├── extract.py
+
 │ ├── transform.py
+
 │ ├── load.py
 │
 ├── README.md
+
 ├── requirements.txt
 
 
